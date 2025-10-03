@@ -9,25 +9,44 @@
 ###
 
 <p align="center">
-🎓 Sinh viên tại <b>FPT Polytechnic</b><br>
-💻 Chuyên ngành: <b>Phát triển phần mềm</b><br>
-🎯 Mục tiêu nghề nghiệp: <b>Tester (Kiểm thử phần mềm)</b><br>
-📧 Liên hệ: <b>minhnhut261006@gmai.com</b>
+🎓 <b>Sinh viên FPT Polytechnic</b><br>
+💻 <b>Chuyên ngành: Phát triển phần mềm</b><br>
+🎯 <b>Mục tiêu nghề nghiệp: Tester (Kiểm thử phần mềm)</b><br>
+📧 <b>Liên hệ: minhnhut261006@gmai.com</b>
 </p>
+
+---
+
+<h3 align="center">🌸 Liên hệ với mình 🌸</h3>
+
+<div align="center">
+  <a href="mailto:minhnhut261006@gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 <h3 align="left">🛠️ Kỹ năng</h3>
 
-<p align="left">Hiện tại mình vẫn đang học tập và chưa có nhiều kỹ năng, nhưng mình luôn nỗ lực để phát triển bản thân 🌱</p>
+<p align="left">
+🌱 Đang học tập và tích lũy kỹ năng về <b>lập trình</b> và <b>kiểm thử phần mềm</b>.<br>
+✨ Luôn sẵn sàng học hỏi để phát triển bản thân.<br>
+</p>
 
 ---
 
 <h3 align="left">🌸 Sở thích</h3>
 
-* Yêu thích công nghệ và lập trình 👩‍💻
-* Thích học hỏi những điều mới 💡
-* Hoa anh đào là loài hoa yêu thích 🌸
+* 👩‍💻 Yêu thích công nghệ và lập trình
+* 💡 Thích khám phá, học hỏi những điều mới
+* 🌸 Hoa anh đào là loài hoa yêu thích
 
 ---
 
@@ -35,9 +54,19 @@
 
 <div align="center">
 
-![Nhựt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhutdady\&show_icons=true\&theme=sakura)
+![Nhựt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhutdady\&show_icons=true\&theme=sakura\&hide_border=true\&border_radius=20)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady\&layout=compact\&theme=sakura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady\&layout=compact\&theme=sakura\&hide_border=true\&border_radius=20)
+
+</div>
+
+---
+
+<h3 align="center">🔥 Streak Stats 🔥</h3>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhutdady\&theme=sakura\&hide_border=true\&border_radius=20)](https://git.io/streak-stats)
 
 </div>
 
