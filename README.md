@@ -16,6 +16,10 @@
 * 🎯 Mục tiêu: trở thành **Tester (QA/QC)**, đóng góp vào đảm bảo chất lượng phần mềm.
 * 📧 Liên hệ: **[minhnhut261006@gmai.com](mailto:minhnhut261006@gmai.com)**
 
+<div align="center">
+  <i>🌸 "Code, Test, and Bloom every day — như hoa anh đào nở trong từng dòng code" 🌸</i>
+</div>
+
 ---
 
 ## 🌸🛠 Kỹ năng & Công cụ
