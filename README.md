@@ -1,58 +1,50 @@
-```md
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </div>
 
 ---
 
-# 🌸 Xin chào, mình là Nguyễn Minh Nhựt 🌸  
-🎓 Sinh viên **FPT Polytechnic**  
-💻 Chuyên ngành **Phát triển phần mềm**  
-🎯 Mục tiêu nghề nghiệp: **Tester**  
+<h2 align="center">🌸 Xin chào, mình là Nguyễn Minh Nhựt 🌸</h2>
+
+###
+
+<p align="center">
+🎓 Sinh viên tại <b>FPT Polytechnic</b><br>
+💻 Chuyên ngành: <b>Phát triển phần mềm</b><br>
+🎯 Mục tiêu nghề nghiệp: <b>Tester (Kiểm thử phần mềm)</b><br>
+📧 Liên hệ: <b>minhnhut261006@gmai.com</b>
+</p>
 
 ---
 
-## 🌼 About Me
-- 📚 Đang trên hành trình học tập và rèn luyện kỹ năng về công nghệ phần mềm  
-- 🌱 Mong muốn tích lũy thêm kinh nghiệm và kỹ năng chuyên môn  
-- 💌 Liên hệ: **minhnhut261006@gmail.com**  
+<h3 align="left">🛠️ Kỹ năng</h3>
+
+<p align="left">Hiện tại mình vẫn đang học tập và chưa có nhiều kỹ năng, nhưng mình luôn nỗ lực để phát triển bản thân 🌱</p>
 
 ---
 
-## 🌸 My Tools & Languages (đang học)
+<h3 align="left">🌸 Sở thích</h3>
+
+* Yêu thích công nghệ và lập trình 👩‍💻
+* Thích học hỏi những điều mới 💡
+* Hoa anh đào là loài hoa yêu thích 🌸
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
+
+![Nhựt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhutdady\&show_icons=true\&theme=sakura)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady\&layout=compact\&theme=sakura)
+
 </div>
 
 ---
 
-## 🌸 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhutdady&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady&layout=compact&theme=tokyonight" height="150"/>
-</div>
+<h3 align="center">✨ Cảm ơn bạn đã ghé thăm profile của mình ✨</h3>
 
----
-
-## 🌸 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhutdady&theme=tokyo-night&bg_color=1a1b27&color=ff75a0&line=ffb7c5&point=f7d9e3" />
-</div>
-
----
-
-## 🌸 Profile Views
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nhutdady/count.svg?" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="150"/>
-  <p>🌸 Cảm ơn bạn đã ghé qua profile của mình 🌸</p>
-</div>
-```
+<p align="center">
+  <img src="https://media.tenor.com/4C3jG9DNK9sAAAAi/cherry-blossom.gif" height="120"/>
+</p>
