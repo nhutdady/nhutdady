@@ -18,10 +18,36 @@
 
 ---
 
-## 🛠 Kỹ năng & Công cụ
+## 🌸🛠 Kỹ năng & Công cụ
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,vscode,eclipse" height="45" />
+#### 1️⃣ 🌸 Ngôn ngữ lập trình
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" height="45"/>
+</div>
+
+---
+
+#### 2️⃣ 🌸 Cơ sở dữ liệu
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</div>
+
+---
+
+#### 3️⃣ 🌸 Công cụ & IDE
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" height="45"/>
+</div>
+
+---
+
+#### 4️⃣ 🌸 Quản lý mã nguồn
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" height="45"/>
 </div>
 
 ---
