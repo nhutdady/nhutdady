@@ -1,42 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=200&section=header&text=Nguyễn%20Minh%20Nhựt&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=200&section=header&text=Nguyễn%20Minh%20Nhựt&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<h3 align="center">🎓 Sinh viên FPT Polytechnic | 💻 Phát triển phần mềm | 🎯 Hướng tới Tester</h3>
+<h3 align="center">🎓 Sinh viên FPT Polytechnic | 💻 Phát triển phần mềm | 🎯 Tester tương lai</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🌸+Welcome+to+my+GitHub+Profile!;💻+Always+learning+new+things;🎯+Target%3A+Become+a+Software+Tester;✨+Let's+code+and+grow+together!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 Giới thiệu ngắn gọn
+## 👨‍💻 Giới thiệu
 
-* 🌱 Sinh viên **chuyên ngành Phát triển phần mềm** tại **FPT Polytechnic**.
-* 🎯 Mục tiêu: trở thành **Tester (QA/QC)**, đóng góp vào việc đảm bảo chất lượng phần mềm.
+* 🌱 Sinh viên **Phát triển phần mềm** tại **FPT Polytechnic**.
+* 🎯 Mục tiêu: trở thành **Tester (QA/QC)**, đóng góp vào đảm bảo chất lượng phần mềm.
 * 📧 Liên hệ: **[minhnhut261006@gmai.com](mailto:minhnhut261006@gmai.com)**
-
----
-
-## 🎓 Học vấn
-
-* **FPT Polytechnic** (2024 - nay)
-  Chuyên ngành: **Phát triển phần mềm**
 
 ---
 
 ## 🛠 Kỹ năng & Công cụ
 
-| Ngôn ngữ                      | Công cụ & IDE                 | Khác                            |
-| ----------------------------- | ----------------------------- | ------------------------------- |
-| Java ☕, HTML, CSS, JavaScript | Git, GitHub, VS Code, Eclipse | MySQL, Cơ bản kiểm thử phần mềm |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,vscode,eclipse" height="45" />
+</div>
 
 ---
 
 ## 🚀 Dự án / Bài tập
 
-* 📌 **Lab1 - Java cơ bản** → *Câu lệnh điều kiện, vòng lặp, nhập xuất dữ liệu.*
-* 📌 **Lab2 - OOP trong Java** → *Class, Object, kế thừa.*
-* 📌 **Lab3 - Web Servlet** → *Xây dựng ứng dụng web động.*
-* 📌 **Lab4 - JSP & MVC** → *Tổ chức project theo mô hình MVC.*
+* 📌 **Lab1 - Java cơ bản** → *Câu lệnh điều kiện, vòng lặp.*
+* 📌 **Lab2 - OOP Java** → *Class, Object, kế thừa.*
+* 📌 **Lab3 - Web Servlet** → *Ứng dụng web động.*
+* 📌 **Lab4 - JSP & MVC** → *Project theo mô hình MVC.*
 
-*(👉 Sẽ cập nhật thêm link GitHub repo và project cá nhân)*
+*(👉 Sẽ cập nhật link GitHub repo sau)*
 
 ---
 
@@ -44,9 +41,9 @@
 
 <div align="center">
 
-![Nhựt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhutdady\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
+![Nhựt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhutdady\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady\&layout=compact\&theme=radical\&hide_border=true\&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=15)
 
 </div>
 
@@ -56,7 +53,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhutdady\&theme=radical\&hide_border=true\&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhutdady\&theme=tokyonight\&hide_border=true\&border_radius=15)](https://git.io/streak-stats)
 
 </div>
 
@@ -78,6 +75,26 @@
 
 ---
 
+## ✨ Fun facts
+
+* 🌸 Thích hoa anh đào & mọi thứ dễ thương.
+* 🎮 Relax bằng game & xem anime.
+* 📖 Yêu thích đọc sách công nghệ & kỹ năng mềm.
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=120&section=footer" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nhutdady&label=Visitors&color=ff69b4&style=flat-square" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=120&section=footer" />
 </div>
