@@ -66,13 +66,13 @@
 *(👉 Sẽ cập nhật link GitHub repo sau)*
 
 ---
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=200&section=header&text=Nguyen%20Minh%20Nhut&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+![Nhựt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhutdady\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
 </div>
 
