@@ -88,6 +88,15 @@
 
 ---
 
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=nhutdady&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 ## 🌐 Liên hệ
 
