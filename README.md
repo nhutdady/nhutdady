@@ -70,8 +70,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhutdady&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhutdady&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdady&layout=compact&theme=tokyonight)
+
 
 </div>
 
